@@ -1,4 +1,4 @@
-# Psrser-with-example
+# Parser-with-example
 A simple parser for the website of an online bookstore by genre and name with a simulation of SELECTING a book and RETURNING it (displayed in the parsing results). The program is in Russian.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
